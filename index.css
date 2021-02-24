@@ -1,0 +1,57 @@
+ 
+ 
+
+/* Add a black background color to the top navigation */
+.topnav {
+   background-color: #333;
+   overflow: hidden;
+ }
+ 
+ /* Style the links inside the navigation bar */
+ .topnav a {
+   float: left;
+   color:white;
+   text-align: center;
+   padding: 14px 76px;
+   text-decoration: none;
+   font-size: 30;
+ }
+ 
+ /* Change the color of links on hover */
+ .topnav a:hover {
+   background-color: rgba(221, 221, 221, 0.658);
+   color: black;
+ }
+ 
+ /* Add a color to the active/current link */
+ .topnav a.active {
+  
+   color: white;
+ }
+
+
+
+
+ /* darkness mode   ................................................... */
+  
+ body {
+   padding: 25px;
+   background-image: url('RemoteImpishBlackbear-size_restricted.gif');
+   color: white;
+   font-size: 25px;
+   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.dark-mode {
+   
+   background-image: url('0f4d59995f46fbd5-galaxy-clouds-tumblr-free-blue-hipster-tumblr-backgrounds-with.gif');
+   color: black;
+}
+.darkButton {
+   padding: 12px;
+   font-size: 18px;
+   border: 2px solid green;
+  
+   background-color:white;
+   
+}
+
